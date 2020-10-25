@@ -1,0 +1,3 @@
+—копируйте модуль в папку модулей, отредактируйте файл conf.php и установите.
+==========
+copy files to u modules dir & edit include/config.inc.php
